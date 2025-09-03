@@ -1,3 +1,3 @@
 ## Git project 
 
-This project is being used for a series of git exercises
+This repository is used for a series of Git learning Exercises
